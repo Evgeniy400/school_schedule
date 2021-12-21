@@ -1,0 +1,3 @@
+[console_scripts]
+pem = peewee_migrations.cli:run
+
